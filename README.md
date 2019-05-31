@@ -5,7 +5,7 @@ The goal of our game it's to restore peace on the Aliris island.
 
 For that you need to speak with pnj, explore every corner of the map, win quest and beat a few boss.
 
-Welcome on the Aliris Island:
+# Welcome on the Aliris Island:
 
 ```
 ./my_rpg
