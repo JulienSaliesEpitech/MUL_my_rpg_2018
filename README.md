@@ -14,7 +14,7 @@ For that you need to speak with pnj, explore every corner of the map, win quest 
 ![aliris](https://github.com/JulienSaliesEpitech/MUL_my_rpg_2018/blob/master/picture_presentation/m.jpg)
 
 
-
+---------------------------------------------------------------------------------------------------------------------------------
 
 # Fight
 
@@ -26,6 +26,7 @@ For that you need to speak with pnj, explore every corner of the map, win quest 
 
 ![4th Fight](https://github.com/JulienSaliesEpitech/MUL_my_rpg_2018/blob/master/picture_presentation/neige.png)
 
+---------------------------------------------------------------------------------------------------------------------------------
 
 
 # PNJ
